@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ Andrew Njenga
+### 👋 Hi, I’m @ Andrew Njenga
+> New to software development. Currently studying Applied Computer Technology at United States International University Africa. 
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python
 
